@@ -16,5 +16,5 @@ A clean and customizable Pomodoro Timer built in pure HTML, CSS, and JavaScript 
 ## How to use
 
 1. Clone or download this repository
-2. Open `pomodoro_timer_custom.html` in your browser
+2. Open `index.html` in your browser
 3. Select your time durations and hit **Start**
