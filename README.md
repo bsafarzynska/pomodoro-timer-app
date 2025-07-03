@@ -14,7 +14,7 @@ A clean and customizable Pomodoro Timer built in pure HTML, CSS, and JavaScript 
 
 ## Live Demo
 
-👉 [Try it on GitHub Pages](https://your-username.github.io/pomodoro-timer/)
+👉 [Try it on GitHub Pages](https://bsafarzynska.github.io/pomodoro-timer-app/)
 
 ## How to use
 
